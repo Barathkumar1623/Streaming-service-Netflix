@@ -4,7 +4,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 }
 
 .backgroundimg{
-    background:rgba(12, 11, 11, 0.68) url(../csscode/netflix/netflix1.jpg);
+    background:rgba(12, 11, 11, 0.68) url(netfliximg/netflix1.jpg);
     height: 43rem;
     width: 84.3em;
     background-size: cover;
